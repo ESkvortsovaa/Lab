@@ -1,0 +1,13 @@
+C:\Users\sidad\Desktop\people\EkaterinaS\Sem2\Att2\4\bin\Debug\4.exe.config
+C:\Users\sidad\Desktop\people\EkaterinaS\Sem2\Att2\4\bin\Debug\4.exe
+C:\Users\sidad\Desktop\people\EkaterinaS\Sem2\Att2\4\bin\Debug\4.pdb
+C:\Users\sidad\Desktop\people\EkaterinaS\Sem2\Att2\4\bin\Debug\Tools.dll
+C:\Users\sidad\Desktop\people\EkaterinaS\Sem2\Att2\4\bin\Debug\Tools.pdb
+C:\Users\sidad\Desktop\people\EkaterinaS\Sem2\Att2\4\obj\Debug\4.csprojResolveAssemblyReference.cache
+C:\Users\sidad\Desktop\people\EkaterinaS\Sem2\Att2\4\obj\Debug\_4.ItemForm.resources
+C:\Users\sidad\Desktop\people\EkaterinaS\Sem2\Att2\4\obj\Debug\_4.SortForm.resources
+C:\Users\sidad\Desktop\people\EkaterinaS\Sem2\Att2\4\obj\Debug\_4.Properties.Resources.resources
+C:\Users\sidad\Desktop\people\EkaterinaS\Sem2\Att2\4\obj\Debug\4.csproj.GenerateResource.Cache
+C:\Users\sidad\Desktop\people\EkaterinaS\Sem2\Att2\4\obj\Debug\4.csproj.CoreCompileInputs.cache
+C:\Users\sidad\Desktop\people\EkaterinaS\Sem2\Att2\4\obj\Debug\4.exe
+C:\Users\sidad\Desktop\people\EkaterinaS\Sem2\Att2\4\obj\Debug\4.pdb

@@ -1,0 +1,17 @@
+C:\Users\sidad\Desktop\people\EkaterinaS\Sem2\Att2\TreeDraw\bin\Debug\Draw.dll
+C:\Users\sidad\Desktop\people\EkaterinaS\Sem2\Att2\TreeDraw\bin\Debug\Draw.pdb
+C:\Users\sidad\Desktop\people\EkaterinaS\Sem2\Att2\TreeDraw\bin\Debug\Tools.dll
+C:\Users\sidad\Desktop\people\EkaterinaS\Sem2\Att2\TreeDraw\bin\Debug\Tools.pdb
+C:\Users\sidad\Desktop\people\EkaterinaS\Sem2\Att2\TreeDraw\obj\Debug\Draw.csprojResolveAssemblyReference.cache
+C:\Users\sidad\Desktop\people\EkaterinaS\Sem2\Att2\TreeDraw\obj\Debug\Draw.csproj.CoreCompileInputs.cache
+C:\Users\sidad\Desktop\people\EkaterinaS\Sem2\Att2\TreeDraw\obj\Debug\Draw.dll
+C:\Users\sidad\Desktop\people\EkaterinaS\Sem2\Att2\TreeDraw\obj\Debug\Draw.pdb
+C:\Users\sidad\Desktop\people\people\EkaterinaS\Sem2\Att2\TreeDraw\bin\Debug\Draw.dll
+C:\Users\sidad\Desktop\people\people\EkaterinaS\Sem2\Att2\TreeDraw\bin\Debug\Draw.pdb
+C:\Users\sidad\Desktop\people\people\EkaterinaS\Sem2\Att2\TreeDraw\bin\Debug\Tools.dll
+C:\Users\sidad\Desktop\people\people\EkaterinaS\Sem2\Att2\TreeDraw\bin\Debug\Tools.pdb
+C:\Users\sidad\Desktop\people\people\EkaterinaS\Sem2\Att2\TreeDraw\obj\Debug\Draw.csprojAssemblyReference.cache
+C:\Users\sidad\Desktop\people\people\EkaterinaS\Sem2\Att2\TreeDraw\obj\Debug\Draw.csproj.CoreCompileInputs.cache
+C:\Users\sidad\Desktop\people\people\EkaterinaS\Sem2\Att2\TreeDraw\obj\Debug\Draw.csproj.CopyComplete
+C:\Users\sidad\Desktop\people\people\EkaterinaS\Sem2\Att2\TreeDraw\obj\Debug\Draw.dll
+C:\Users\sidad\Desktop\people\people\EkaterinaS\Sem2\Att2\TreeDraw\obj\Debug\Draw.pdb

@@ -1,0 +1,6 @@
+C:\Users\sidad\Desktop\people\people\EkaterinaS\Sem2\Att3\StringGraph\bin\Debug\StringGraph.dll
+C:\Users\sidad\Desktop\people\people\EkaterinaS\Sem2\Att3\StringGraph\bin\Debug\StringGraph.pdb
+C:\Users\sidad\Desktop\people\people\EkaterinaS\Sem2\Att3\StringGraph\obj\Debug\StringGraph.csprojAssemblyReference.cache
+C:\Users\sidad\Desktop\people\people\EkaterinaS\Sem2\Att3\StringGraph\obj\Debug\StringGraph.csproj.CoreCompileInputs.cache
+C:\Users\sidad\Desktop\people\people\EkaterinaS\Sem2\Att3\StringGraph\obj\Debug\StringGraph.dll
+C:\Users\sidad\Desktop\people\people\EkaterinaS\Sem2\Att3\StringGraph\obj\Debug\StringGraph.pdb

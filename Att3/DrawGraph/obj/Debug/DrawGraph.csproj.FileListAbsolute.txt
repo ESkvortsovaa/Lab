@@ -1,0 +1,9 @@
+C:\Users\sidad\Desktop\people\people\EkaterinaS\Sem2\Att3\DrawGraph\bin\Debug\DrawGraph.dll
+C:\Users\sidad\Desktop\people\people\EkaterinaS\Sem2\Att3\DrawGraph\bin\Debug\DrawGraph.pdb
+C:\Users\sidad\Desktop\people\people\EkaterinaS\Sem2\Att3\DrawGraph\bin\Debug\StringGraph.dll
+C:\Users\sidad\Desktop\people\people\EkaterinaS\Sem2\Att3\DrawGraph\bin\Debug\StringGraph.pdb
+C:\Users\sidad\Desktop\people\people\EkaterinaS\Sem2\Att3\DrawGraph\obj\Debug\DrawGraph.csprojAssemblyReference.cache
+C:\Users\sidad\Desktop\people\people\EkaterinaS\Sem2\Att3\DrawGraph\obj\Debug\DrawGraph.csproj.CoreCompileInputs.cache
+C:\Users\sidad\Desktop\people\people\EkaterinaS\Sem2\Att3\DrawGraph\obj\Debug\DrawGraph.csproj.CopyComplete
+C:\Users\sidad\Desktop\people\people\EkaterinaS\Sem2\Att3\DrawGraph\obj\Debug\DrawGraph.dll
+C:\Users\sidad\Desktop\people\people\EkaterinaS\Sem2\Att3\DrawGraph\obj\Debug\DrawGraph.pdb

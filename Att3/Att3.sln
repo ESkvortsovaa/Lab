@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.15
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StringGraph", "StringGraph\StringGraph.csproj", "{FE7A572A-112D-46AD-A767-BABE03A4EAE6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DrawGraph", "DrawGraph\DrawGraph.csproj", "{3F302FFE-3FCF-4FAE-BDCA-218077E3B5D2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3.1.26", "19\3.1.26.csproj", "{F5837333-8906-4000-A32E-3BD3C62D50CB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FE7A572A-112D-46AD-A767-BABE03A4EAE6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FE7A572A-112D-46AD-A767-BABE03A4EAE6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FE7A572A-112D-46AD-A767-BABE03A4EAE6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FE7A572A-112D-46AD-A767-BABE03A4EAE6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3F302FFE-3FCF-4FAE-BDCA-218077E3B5D2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3F302FFE-3FCF-4FAE-BDCA-218077E3B5D2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3F302FFE-3FCF-4FAE-BDCA-218077E3B5D2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3F302FFE-3FCF-4FAE-BDCA-218077E3B5D2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F5837333-8906-4000-A32E-3BD3C62D50CB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F5837333-8906-4000-A32E-3BD3C62D50CB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F5837333-8906-4000-A32E-3BD3C62D50CB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F5837333-8906-4000-A32E-3BD3C62D50CB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {30E884E9-2D24-4301-BE2E-8CE88A142D8E}
+	EndGlobalSection
+EndGlobal

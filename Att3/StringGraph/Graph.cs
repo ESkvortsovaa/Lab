@@ -8,6 +8,9 @@ namespace StringGraph
 {
     public class Graph
     {
+        //Есть план местности. На нем отмеченны города и ж/д пути между ними. 
+        //Есть старинная карта тойже местности. На ней отмеченны торговые пути
+        //мемжду городами. Необходимо найти максимальное согласование старых и новых путей.
         public List<Node> Nodes { get; set; } = new List<Node>();
         public void AddNode(string value, int x, int y) => Nodes.Add(new Node(value, x, y, this));
         public void RemoveNode(Node node)

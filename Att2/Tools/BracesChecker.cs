@@ -8,6 +8,9 @@ namespace Tools
 {
     public class BracesChecker
     {
+        //Написать программу, проверяющую правильность расстановки  
+        //скобок в арифметическом выражении. Скобки могут быть круглыми, 
+        //квадратными и фигурными.
         public string Str { get; set; }
         MyStack<char> stack;
 

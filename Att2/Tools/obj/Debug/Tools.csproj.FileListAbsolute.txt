@@ -10,3 +10,9 @@ C:\Users\sidad\Desktop\people\people\EkaterinaS\Sem2\Att2\Tools\obj\Debug\Tools.
 C:\Users\sidad\Desktop\people\people\EkaterinaS\Sem2\Att2\Tools\obj\Debug\Tools.csproj.CoreCompileInputs.cache
 C:\Users\sidad\Desktop\people\people\EkaterinaS\Sem2\Att2\Tools\obj\Debug\Tools.dll
 C:\Users\sidad\Desktop\people\people\EkaterinaS\Sem2\Att2\Tools\obj\Debug\Tools.pdb
+C:\Users\asus\Documents\GitHub\Lab\Att2\Tools\bin\Debug\Tools.dll
+C:\Users\asus\Documents\GitHub\Lab\Att2\Tools\bin\Debug\Tools.pdb
+C:\Users\asus\Documents\GitHub\Lab\Att2\Tools\obj\Debug\Tools.csprojResolveAssemblyReference.cache
+C:\Users\asus\Documents\GitHub\Lab\Att2\Tools\obj\Debug\Tools.csproj.CoreCompileInputs.cache
+C:\Users\asus\Documents\GitHub\Lab\Att2\Tools\obj\Debug\Tools.dll
+C:\Users\asus\Documents\GitHub\Lab\Att2\Tools\obj\Debug\Tools.pdb

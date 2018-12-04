@@ -9,8 +9,6 @@ namespace Tools
 
     public class Node
     {
-        //Дано вещественное x, целое k. Подсчитать 
-        //количество чисел, меньших x, в узлах ниже k-ого уровня.
         public Node Parent { get; set; }
         public double Value { get; set; }
         public List<Node> Nodes { get; set; }

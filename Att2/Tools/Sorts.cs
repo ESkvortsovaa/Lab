@@ -8,11 +8,6 @@ namespace Tools
 {
     public class Sorts
     {
-        //Есть некий измерительный прибор, работа которого зависит от входных параметров 
-        //a и x, а результат определяется следующей формулой у = a sin(ax) cos2 (x/a). 
-        //Проводится серия опытов для значений xt ,х2,... xn, a = const. Вывести результат
-        //в виде таблицы, упорядоченной по убыванию значений показаний прибора, полученных 
-        //в ходе опытов.
         public void QuicSort(List<Measure> list) => QuickSort(list, 0, list.Count - 1);
         private void QuickSort(List<Measure> list, int left, int right)
         {

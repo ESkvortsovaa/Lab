@@ -8,8 +8,6 @@ namespace Logic
 {
     public struct Position
     {
-        //Найти расстановку 5 ферзей, при которой каждое 
-        //поле шахматной доски будет находиться под ударом хотя бы одного из них.
         public int X { get; set; }
         public int Y { get; set; }
 
